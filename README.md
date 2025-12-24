@@ -1,3 +1,4 @@
+
 # Engineering Portfolio
 
 This repository contains my **Engineering Portfolio**, showcasing academic and applied projects in **Defense & Aerospace Engineering**, with a focus on systems, control, and propulsion.
@@ -6,7 +7,7 @@ This repository contains my **Engineering Portfolio**, showcasing academic and a
 
 ## 📄 Portfolio
 
-- **PDF Version:** [Download Portfolio](./Engineering_Portfolio.pdf)  
+- **PDF Version:** [Download Portfolio](https://github.com/AshiqulIslam10/Engineering-Portfolio/raw/main/Engineering_Portfolio.pdf)  
 - **LaTeX Source:** Included for transparency and reproducibility.
 
 ---
@@ -43,8 +44,9 @@ This repository contains my **Engineering Portfolio**, showcasing academic and a
 
 ## 📫 Contact
 
-- Email: [youremail@email.com](mailto:youremail@email.com)  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- Email: [niaain10@gmail.com](mailto:niaain10@gmail.com)  
+- LinkedIn: [linkedin.com/in/ashiqul-islam-nayeem-157a79146](https://linkedin.com/in/ashiqul-islam-nayeem-157a79146)  
+- GitHub Portfolio PDF: [Click to View](https://github.com/AshiqulIslam10/Engineering-Portfolio/raw/main/Engineering_Portfolio.pdf)
 
 ---
 
