@@ -7,7 +7,7 @@ This repository contains my **Engineering Portfolio**, showcasing academic and a
 
 ## 📄 Portfolio Files
 
-- **PDF Version:** [Download Portfolio](https://github.com/AshiqulIslam10/Engineering-Portfolio/raw/main/Engineering_Portfolio.pdf)  
+- **PDF Version:** [Download Portfolio](https://github.com/AshiqulIslam10/Engineering-Portfolio/raw/main/Ashiqul's_Engineering_Portfolio.pdf)  
 
 
 ---
