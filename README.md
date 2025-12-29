@@ -8,7 +8,7 @@ This repository contains my **Engineering Portfolio**, showcasing academic and a
 ## 📄 Portfolio Files
 
 - **PDF Version:** [Download Portfolio](https://github.com/AshiqulIslam10/Engineering-Portfolio/raw/main/Engineering_Portfolio.pdf)  
-- **LaTeX Source:** [View Source](https://github.com/AshiqulIslam10/Engineering-Portfolio)
+
 
 ---
 
@@ -101,8 +101,6 @@ Systems-oriented engineer with experience in modeling, analysis, and verificatio
 - **Phone:** +1 (204) 887-6259  
 - **LinkedIn:** [linkedin.com/in/ashiqul-islam-nayeem-eit-157a79146](https://www.linkedin.com/in/ashiqul-islam-nayeem-eit-157a79146/)
 
-
-- LinkedIn: [linkedin.com/in/ashiqul-islam-nayeem-157a79146](https://linkedin.com/in/ashiqul-islam-nayeem-157a79146)  
 - GitHub Portfolio PDF: [Click to View](https://github.com/AshiqulIslam10/Engineering-Portfolio/raw/main/Engineering_Portfolio.pdf)
 
 ---
