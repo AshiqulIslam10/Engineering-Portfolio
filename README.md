@@ -100,6 +100,7 @@ Systems-oriented engineer with experience in modeling, analysis, and verificatio
 - **Email:** [niaain10@gmail.com](mailto:niaain10@gmail.com)  
 - **Phone:** +1 (204) 887-6259  
 - **LinkedIn:** [linkedin.com/in/ashiqul-islam-nayeem-eit-157a79146](https://www.linkedin.com/in/ashiqul-islam-nayeem-eit-157a79146/)
+- **PDF Version:** [Download Portfolio](https://github.com/AshiqulIslam10/Engineering-Portfolio/raw/main/Ashiqul's_Engineering_Portfolio.pdf) 
 
 - GitHub Portfolio PDF: [Click to View](https://github.com/AshiqulIslam10/Engineering-Portfolio/raw/main/Engineering_Portfolio.pdf)
 
